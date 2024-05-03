@@ -13,7 +13,7 @@
 
 <p></p>
 <div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&theme=dark&layout=compact" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&theme=dark" /></p>
   
  <p align="center">
   <a href="https://skillicons.dev">
