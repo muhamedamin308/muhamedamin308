@@ -12,7 +12,7 @@
   
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,github,firebase,idea" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,github,firebase,idea,postman" />
   </a>
 </p>
  <!-- 
