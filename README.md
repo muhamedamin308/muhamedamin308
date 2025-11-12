@@ -8,7 +8,6 @@
 
 <p></p>
 <div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&theme=light" /></p>
   
  <p align="center">
   <a href="https://skillicons.dev">
