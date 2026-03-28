@@ -38,15 +38,10 @@
 
 ---
 
-## 🏆 GitHub Highlights
+## 📊 Profile Summary
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamedamin308&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhamedamin308&theme=tokyonight&hide_border=true"/>
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamedamin308&theme=tokyonight" />
+</p> 
 
 ## 📈 Activity Graph
 <p align="center">
