@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamedamin308&show_icons=true&theme=tokyonight" />
+  <img <img src="https://github-readme-stats.vercel.app/api?username=muhamedamin308&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&layout=compact&theme=tokyonight" />
 </p>
 
@@ -55,14 +55,13 @@
 
 ## 🚀 Featured Projects
 - 🎵 **Wavora** – Offline-first premium music app using Media3 & ExoPlayer  
-- 🧠 **NeuroTask** – AI-powered task manager  
 - 📚 **ReadMate** – E-book platform with Firebase integration  
 
 ---
 
 ## 💡 Current Focus
 - Deep dive into **Jetpack Compose (Real-world UI mastery)**
-- Learning **Kotlin Multiplatform (Android + iOS)**
+- Learning **Flutter (Android + iOS)**
 - Building **high-performance, production-grade apps**
 
 ---
