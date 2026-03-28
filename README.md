@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 - 🚀 Passionate **Android Developer** with 3+ years of experience  
 - 📱 Specialized in **Kotlin, Jetpack Compose, and Modern Android Architecture (MVVM, Clean)**  
-- 🧠 Currently exploring **Kotlin Multiplatform (KMP)** & **Advanced Coroutines**  
-- ⚡ Building scalable apps like **Wavora** & **NeuroTask**  
+- 🧠 Currently exploring **Flutter** & **Advanced Mobile Tasks**  
+- ⚡ Building scalable apps like **Wavora** & **ReadMate**  
 - 🎯 Goal: Become a **top-tier mobile engineer across Android & iOS**
 
 ---
@@ -38,10 +38,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Highlights
 <p align="center">
-  <img <img src="https://github-readme-stats.vercel.app/api?username=muhamedamin308&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamedamin308&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhamedamin308&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedamin308&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
