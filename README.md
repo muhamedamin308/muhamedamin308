@@ -1,29 +1,80 @@
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
+<h1 align="center">Hi 👋, I'm Muhamed Amin</h1>
+<h3 align="center">Android Developer | Kotlin Enthusiast | Building Scalable & Modern Apps</h3>
 
-- 🔭 My Profile views ![](https://komarev.com/ghpvc/?username=muhamedamin308)
-- 🌡️ You can visit my linkedin Profile: <a href ="https://www.linkedin.com/in/muhamed-amin-hassan/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-c14438?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:muhamed.amin.2290@gmail.com)</a>
-- 📫 How to reach me: <a href ="mailto:mohamed.amin.2290@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<p></p>
-<div align = "center">
-  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,github,firebase,idea,postman" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhamedamin308&label=Profile%20views&color=0e75b6&style=flat" alt="muhamedamin308" />
 </p>
 
- <p align="center">
+---
+
+## 🧑‍💻 About Me
+- 🚀 Passionate **Android Developer** with 3+ years of experience  
+- 📱 Specialized in **Kotlin, Jetpack Compose, and Modern Android Architecture (MVVM, Clean)**  
+- 🧠 Currently exploring **Kotlin Multiplatform (KMP)** & **Advanced Coroutines**  
+- ⚡ Building scalable apps like **Wavora** & **NeuroTask**  
+- 🎯 Goal: Become a **top-tier mobile engineer across Android & iOS**
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhamed-amin-hassan/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamed.amin.2290@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://muhamedamin308.github.io/apps/">
-    My Portfolio
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
- <!-- 
-  <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></p>
--->
 
+---
 
-<div align="center">
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,github,git,postman,idea" />
+</p>
 
-### Show some ❤️ by starring the repos!
-</div>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamedamin308&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamin308&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhamedamin308&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🎵 **Wavora** – Offline-first premium music app using Media3 & ExoPlayer  
+- 🧠 **NeuroTask** – AI-powered task manager  
+- 📚 **ReadMate** – E-book platform with Firebase integration  
+
+---
+
+## 💡 Current Focus
+- Deep dive into **Jetpack Compose (Real-world UI mastery)**
+- Learning **Kotlin Multiplatform (Android + iOS)**
+- Building **high-performance, production-grade apps**
+
+---
+
+## ❤️ Support
+If you like my work, consider:
+⭐ Starring repositories  
+🍴 Forking projects  
+🤝 Connecting with me  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</p>
